@@ -1,12 +1,12 @@
 {
-    "name": "vienthuong/kiot-viet-client",
+    "name": "khanhicetea/kiot-viet-client",
     "type": "library",
     "description": "A Small PHP Client package for working with KiotViet API",
     "keywords": [
         "vienthuong",
         "kiot-viet-client"
     ],
-    "homepage": "https://github.com/vienthuong/kiot-viet-client",
+    "homepage": "https://github.com/khanhicetea/kiot-viet-client",
     "license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
     "require": {
         "php": ">7.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^6.5|^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": ">=8.0",
